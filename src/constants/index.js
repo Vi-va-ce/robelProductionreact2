@@ -1,21 +1,19 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
-import myAbout from '../about.html';
-import myProtfolio from "../portfolio.html";
-import myContact from "../contact.html";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+
 export const navLinks = [
   {
-    id: "myAbout",
+    id: "About",
     title: "About",
   },
   {
-    id: "myPotfolio",
+    id: "Works",
     title: "Our works",
   },
   {
-    id: "myContact",
+    id: "talk  ",
     title: "Let's talk",
   },
-
+ 
 ];
 
 export const features = [
