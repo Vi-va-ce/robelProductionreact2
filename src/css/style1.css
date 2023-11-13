@@ -1,0 +1,320 @@
+/* ourwork */
+
+box-sizing: border-box;
+
+position: relative;
+width: 1280px;
+height: 1020px;
+
+background: linear-gradient(180deg, #080508 0%, #0C0809 45.49%, #1E120F 100%);
+/* Landing page */
+
+position: relative;
+width: 1280px;
+height: 1020px;
+
+background: linear-gradient(180deg, #000000 0%, #061857 100%);
+
+
+/* background image */
+
+position: absolute;
+height: 1026px;
+left: -158px;
+right: -62px;
+top: 0px;
+
+background: url(2097.jpg);
+
+
+/* Rectangle 123 */
+
+position: absolute;
+width: 1280px;
+height: 1026px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.88);
+
+
+/* Logo */
+
+position: absolute;
+width: 250px;
+height: 42.25px;
+left: 58px;
+top: 118px;
+
+
+
+/* yellow png - Robel Birhanu-1 1 */
+
+position: absolute;
+width: 119.57px;
+height: 42.25px;
+left: 58px;
+top: 118px;
+
+background: url(yellow png - Robel Birhanu-1.png);
+
+
+/* Rob Production */
+
+position: absolute;
+width: 158.68px;
+height: 25px;
+left: 149.32px;
+top: 126.45px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.8px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* Captivating Stories, Cinematic Excellence: Unleashing the Power of Visual Narratives! */
+
+position: absolute;
+width: 555px;
+left: calc(50% - 555px/2 - 168.5px);
+top: 43.82%;
+bottom: 43.24%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+
+/* yellow png - Robel Birhanu-1 1 */
+
+position: absolute;
+width: 357px;
+height: 339px;
+right: 193px;
+top: calc(50% - 339px/2 - 0.5px);
+
+background: url(yellow png - Robel Birhanu-1.png);
+
+
+/* Read more */
+
+position: absolute;
+width: 123px;
+height: 29px;
+left: calc(50% - 123px/2 - 0.5px);
+bottom: 132px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FEB801;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 19.5px;
+height: 11.95px;
+left: calc(50% - 19.5px/2 - 0.25px);
+bottom: 110.79px;
+
+background: #51DFE8;
+
+
+/* Group 36 */
+
+position: absolute;
+width: 508px;
+height: 33px;
+left: 656px;
+top: 127px;
+
+
+
+/* Let’s talk */
+
+position: absolute;
+width: 101px;
+height: 25px;
+right: 116px;
+top: 127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.8px;
+line-height: 25px;
+
+color: #FEB801;
+
+
+
+/* Our works */
+
+position: absolute;
+width: 106px;
+height: 25px;
+right: 317px;
+top: 128px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.8px;
+line-height: 25px;
+
+color: #FEB801;
+
+
+
+/* About */
+
+position: absolute;
+width: 64px;
+height: 25px;
+right: 560px;
+top: 128px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.8px;
+line-height: 25px;
+
+color: #FEB801;
+
+
+
+/* Line 14 */
+
+position: absolute;
+width: 45px;
+height: 0px;
+right: 570px;
+top: 160px;
+
+border: 1px solid #FEB801;
+
+
+/* Line 16 */
+
+position: absolute;
+width: 28.28px;
+height: 0px;
+right: 649.72px;
+top: 214px;
+
+transform: rotate(135deg);
+
+
+/* Line 18 */
+
+position: absolute;
+width: 41.01px;
+height: 0px;
+left: calc(50% - 41.01px/2 - 376.49px);
+top: 317px;
+
+transform: rotate(135deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 25px;
+left: 105px;
+top: 43.43%;
+bottom: 54.37%;
+
+background: #FEB801;
+
+
+/* Vector */
+
+position: absolute;
+width: 25px;
+left: 105px;
+top: 25.69%;
+bottom: 71.86%;
+
+background: #FEB801;
+
+
+/* Group */
+
+position: absolute;
+left: 8.2%;
+right: 89.84%;
+top: 60.88%;
+bottom: 37.31%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 25.02px;
+left: 105px;
+top: 60.88%;
+bottom: 37.31%;
+
+border: 1.65814px solid #FEB801;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.47px;
+left: 115.53px;
+top: 61.45%;
+bottom: 37.87%;
+
+border: 1.42144px solid #FEB801;
+
+
+/* Vector */
+
+position: absolute;
+width: 21.94px;
+left: 107px;
+top: 77.94%;
+bottom: 19.61%;
+
+background: #FEB801;
+
+
+/* Line 19 */
+
+position: absolute;
+width: 28.28px;
+height: 0px;
+right: 649.72px;
+top: 214px;
+
+transform: rotate(135deg);
+
+
+/* Line 20 */
+
+position: absolute;
+width: 41.01px;
+height: 0px;
+left: calc(50% - 41.01px/2 - 376.49px);
+top: 317px;
+
+transform: rotate(135deg);
